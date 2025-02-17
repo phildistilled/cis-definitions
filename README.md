@@ -1,6 +1,6 @@
 # cis-definitions
 
-Enterprise Assets - Devices and computing belonging to the enterprise and which are commonly on the network.  It includes End User Compute, Servers, Network Equipment, IoT Devices (cameras, sensors), Smart Operational Equipment (Refrigerators, Automated Guided Vehicles).  In the context of CIS 1 Enterprise Assets are these devices.  In the context of CIS 2 this includes software and applications that process data.  In the context of CIS 4 this includes both the devices and the software since they all need to be configured to a secure standard.
+**Enterprise Assets** - Devices and computing belonging to the enterprise and which are commonly on the network.  It includes End User Compute, Servers, Network Equipment, IoT Devices (cameras, sensors), Smart Operational Equipment (Refrigerators, Automated Guided Vehicles).  In the context of CIS 1 Enterprise Assets are these devices.  In the context of CIS 2 this includes software and applications that process data.  In the context of CIS 4 this includes both the devices and the software since they all need to be configured to a secure standard.
 
 Sensitive Systems - Used a a mechanism for discriminating between sensitive and non sensitive systems.  Sensitive systems would process information that is classed as highly confidential, need to be protected to meet a regulatory need or which underpin the organisations critical processes.  If the definition is extended to confidential then it no longer provides a discrimination in most organisations.
 
